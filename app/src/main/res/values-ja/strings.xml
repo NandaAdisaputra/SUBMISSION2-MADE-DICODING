@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Movie">映画</string>
+    <string name="TvShows">テレビ番組</string>
+    <string name="app_name">提出2メイド</string>
+    <string name="by_nanda_adisaputra">nanda adisaputraによって</string>
+    <string name="description">説明</string>
+    <string name="genre">ジャンル</string>
+    <string name="genre_movie">ジャンル映画</string>
+    <string name="language_settings">言語設定</string>
+    <string name="movie_title">映画のタイトル</string>
+    <string name="release_date">発売日</string>
+    <array name="image_data">
+        <item>@drawable/a_star</item>
+        <item>@drawable/aquaman</item>
+        <item>@drawable/avengerinfinity</item>
+        <item>@drawable/bumblebee</item>
+        <item>@drawable/bohemian</item>
+        <item>@drawable/robinhood</item>
+        <item>@drawable/venom</item>
+        <item>@drawable/mortalengine</item>
+        <item>@drawable/dragon</item>
+        <item>@drawable/glass</item>
+    </array>
+    <array name="data_img">
+        <item>@drawable/afterlife</item>
+        <item>@drawable/americangods</item>
+        <item>@drawable/gameofthrones</item>
+        <item>@drawable/lovedeathrobots</item>
+        <item>@drawable/recess</item>
+        <item>@drawable/thegoodplace</item>
+        <item>@drawable/naruto</item>
+        <item>@drawable/boruto</item>
+        <item>@drawable/doraemon</item>
+        <item>@drawable/ultraman</item>
+    </array>
+    <string-array name = "title_data">
+                <item>星</item>
+                <item>アクアマン</item>
+                <item> Avengerinfinity </item>
+                <item>バンブルビー</item>
+                <item>ボヘミアン</item>
+                <item> Robinhood </item>
+                <item>毒</item>
+                <item>モータレンエンジン</item>
+                <item>ドラゴン</item>
+                <item>ガラス</item>
+            </string-array>
+        <string-array name = "name_data">
+            <item>生後</item>
+            <item>アメリカの神々</item>
+            <item>ゲーム・オブ・スローンズ</item>
+            <item>ラブデスロボット</item>
+            <item>凹み</item>
+            <item>良い場所</item>
+            <item>ナルト</item>
+            <item> Boruto </item>
+            <item>ドラえもん</item>
+            <item>ウルトラマン</item>
+        </string-array>
+        <string-array name = "data_description">
+            <item> A Star Is Born。才能あふれるミュージシャン、Jackson Maineが奮闘しているアーティストAllyを発見 - そしてそれに恋をする。 </item>
+            <item> Aquaman.Onceは、地球上で最も先進的な文明の故郷であり、現在では支配されている水中王国です。
+            力に飢えた王オームによる。</item>
+            <item>アベンジャーズ：InfinityWar。アベンジャーズとその同盟国は、大きすぎる脅威から世界を守り続けてきた
+            一人のヒーローが対応する</item>
+            <item>バンブルビー。1987年のランニングで、バンブルビーはカリフォルニアの小さなビーチタウンの廃品置き場に避難所を見つけました。</item>
+            <item>ボヘミアン。シンガー・フレディ・マーキュリー、ギタリストのブライアン・メイ、ドラマーのロジャー・テイラー、そしてベースのギタリストのジョン・ディーコンのテイク
+            嵐による音楽の世界</item>
+            <item> Robin Hood.A強化されたクルセイダーと彼のムーア人の司令官は、腐敗した英語に対する大胆な反乱を起こします
+            クラウン。</item>
+            <item>Venom。調査ジャーナリストのEddie Brockがスキャンダルに続いてカムバックを試みたが、誤って
+            毒のホスト</item>
+            <item>モータルエンジン。未来の何千年もの間、地球の都市は巨大な車輪で地球を歩き回っています。
+            </item>
+            <item> Hiccupが穏やかなドラゴンのユートピアを作成するという彼の夢をかなえると、歯のない、とらえどころのないとらえどころのない仲間の発見はNight Furyを引き離します。 </item>
+            <item>Glass。エスカレートする前の警備員、David Dunnは、ケビン・ウェンデル・クラムを追跡するために彼の超自然的な能力を使っています。
+            </item>
+        </string-array>
+        <string-array name = "data_desc">
+            <item>アフターライフは完璧な人生を過ごしたトニーに従います。しかし妻のリサが突然死んだ後、トニーは変わります。</item>
+            <item>同名のNeil 2001の小説に基づいて、元陰影のShadow Moonは..になります。</item>
+            <item> 7人の貴族がウェステロスの神秘的な土地を支配するために戦います。家の間の摩擦は導く…</item>
+            <item>空想科学小説、ファンタジー、…を含むさまざまなジャンルにわたるアニメの短編小説のコレクション。</item>
+            <item>小学校での休憩中の4人の男の子と2人の女の子との親友のグループの物語、…</item>
+            <item>Eleanor Shellstropは普通の女性です。
+           </item>
+            <item>別の世界では、忍者は究極の力であり、そして葉の中に隠された村では生きています…</item>
+            <item>隠れた葉の村は平和と現代の時代を迎えました。高い建物が通りに並んでいます…</item>
+            <item>のび太のびびはとても不幸なので、彼の22世紀の子孫はまだ彼の20世紀の騒ぎの結果として貧困に陥っています。</item>
+            <item>近い将来、不吉な異星人と巨大な先史時代のモンスターが文明を脅かしています！…</item>
+        </string-array>
+        <string-array name = "release_date_data">
+            <item> 2018年10月3日</item>
+            <item> 2018年12月7日</item>
+            <item> 2018年4月25日</item>
+            <item> 2018年12月15日</item>
+            <item> 2018年10月24日</item>
+            <item> 2018年11月20日</item>
+            <item> 2018年9月28日</item>
+            <item> 2018年11月27日</item>
+            <item> 2019年1月3日</item>
+            <item> 2019年1月16日</item>
+        </string-array>
+        <string-array name = "genre_data">
+            <item>ドラマ、ロマンス、音楽</item>
+            <item>アクション、アドベンチャー、ファンタジー</item>
+            <item>冒険、アクション、ファンタジー</item>
+            <item>アクション、冒険、サイエンスフィクション</item>
+            <item>演劇、音楽</item>
+            <item>冒険、アクション、スリラー</item>
+            <item>サイエンスフィクション、アクション</item>
+            <item>冒険、ファンタジー</item>
+            <item>アニメ、家族、冒険</item>
+            <item>スリラー、ドラマ、サイエンスフィクション</item>
+        </string-array>
+</resources>

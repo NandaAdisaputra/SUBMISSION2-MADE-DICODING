@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Movie">Film</string>
+    <string name="TvShows">Acara Tv</string>
+    <string name="by_nanda_adisaputra">Oleh nanda adisaputra</string>
+    <string name="description">Deskripsi</string>
+    <string name="genre">Genre</string>
+    <string name="genre_movie">Film Bergenre</string>
+    <string name="language_settings">Pengaturan Bahasa</string>
+    <string name="movie_title">Judul Film</string>
+    <string name="release_date">Tanggal Rilis</string>
+    <string name="app_name">PENGAJUAN 2 DIBUAT</string>
+    <array name="image_data">
+        <item>@drawable/a_star</item>
+        <item>@drawable/aquaman</item>
+        <item>@drawable/avengerinfinity</item>
+        <item>@drawable/bumblebee</item>
+        <item>@drawable/bohemian</item>
+        <item>@drawable/robinhood</item>
+        <item>@drawable/venom</item>
+        <item>@drawable/mortalengine</item>
+        <item>@drawable/dragon</item>
+        <item>@drawable/glass</item>
+    </array>
+    <array name="data_img">
+        <item>@drawable/afterlife</item>
+        <item>@drawable/americangods</item>
+        <item>@drawable/gameofthrones</item>
+        <item>@drawable/lovedeathrobots</item>
+        <item>@drawable/recess</item>
+        <item>@drawable/thegoodplace</item>
+        <item>@drawable/naruto</item>
+        <item>@drawable/boruto</item>
+        <item>@drawable/doraemon</item>
+        <item>@drawable/ultraman</item>
+    </array>
+    <string-array name = "title_data">
+        <item> Bintang </item>
+        <item> Aquaman </item>
+        <item> Avengerinfinity </item>
+        <item> Bumblebee </item>
+        <item> Bohemian </item>
+        <item> Robinhood </item>
+        <item> Venom </item>
+        <item> Mortalengine </item>
+        <item> Naga </item>
+        <item> Kaca </item>
+    </string-array>
+    <string-array name = "name_data">
+        <item> Setelah Kehidupan </item>
+        <item> Dewa Amerika </item>
+        <item> Game of Thrones </item>
+        <item> Suka deathrobots </item>
+        <item> Reses </item>
+        <item> Tempat yang bagus </item>
+        <item> Naruto </item>
+        <item> Boruto </item>
+        <item> Doraemon </item>
+        <item> Ultraman </item>
+    </string-array>
+    <string-array name = "data_description">
+        <item> A Star Is Born. Musisi yang beralasan Jackson Maine menemukan - dan jatuh cinta dengan - artis yang sedang berjuang Ally. </item>
+        <item> Aquaman. Setelah menjadi rumah bagi peradaban paling maju di Bumi, Atlantis sekarang menjadi kerajaan bawah laut yang diperintah
+            oleh Raja Orm yang haus kekuasaan. </item>
+        <item> Avengers: Perang Infinity. Sebagai Avengers dan sekutu mereka terus melindungi dunia dari ancaman yang terlalu besar
+            untuk satu pahlawan yang menangani </item>
+        <item> Bumblebee. Saat dijalankan pada tahun 1987, Bumblebee menemukan tempat perlindungan di tempat barang rongsokan di kota pantai kecil California. </item>
+        <item> Bahasa Bohemia. Penyanyi Freddie Mercury, gitaris Brian May, drummer Roger Taylor dan gitaris bass John Deacon ambil
+            dunia musik oleh badai </item>
+        <item> Robin Hood. Tentara Salib yang mengeras perang dan komandan Moornya melancarkan pemberontakan berani melawan Inggris yang korup
+            mahkota. </item>
+        <item> Venom. Wartawan investigasi Eddie Brock berusaha untuk kembali setelah skandal, tetapi tidak sengaja menjadi
+            host Venom </item>
+        <item> Mesin Fana. Ribuan tahun di masa depan, kota-kota di bumi menjelajah dunia dengan roda besar .. </item>
+        <item> Saat Hiccup memenuhi mimpinya untuk menciptakan utopia naga yang damai, penemuan Toothless tentang pasangan yang liar dan sulit ditangkap menarik Night Fury pergi. </item>
+        <item> Glass. Dalam serangkaian pertemuan yang meningkat, mantan penjaga keamanan David Dunn menggunakan kemampuan supernaturalnya untuk melacak Kevin Wendell Crumb </item>
+    </string-array>
+    <string-array name = "data_desc">
+        <item> After Life mengikuti Tony, yang memiliki kehidupan yang sempurna. Tetapi setelah istrinya, Lisa, tiba-tiba meninggal, Tony berubah. </item>
+        <item> Berdasarkan novel Neil 2001 dengan nama yang sama, mantan Narapidana Shadow Moon menjadi .. </item>
+        <item> Tujuh keluarga bangsawan berjuang untuk menguasai tanah mitos Westeros. Gesekan antar rumah mengarah ... </item>
+        <item> Kumpulan cerita pendek animasi yang menjangkau berbagai genre termasuk fiksi ilmiah, fantasi, ... </item>
+        <item> Kisah komik tentang sekelompok teman baik, 4 laki-laki dan 2 perempuan, saat istirahat di sekolah dasar, ... </item>
+        <item> Eleanor Shellstrop adalah wanita biasa yang, melalui luar biasa ... </item>
+        <item> Di dunia lain, ninja adalah kekuatan tertinggi, dan di Desa Tersembunyi di Daun tinggal ... </item>
+        <item> Desa Daun Tersembunyi telah memasuki era perdamaian dan modernitas. Bangunan-bangunan tinggi berjejer di jalanan ... </item>
+        <item> Nobita Nobi sangat tak berdaya sehingga keturunan abad ke-22nya masih miskin karena kikuk abad ke-20. </item>
+        <item> Dalam waktu dekat, alien jahat dan monster prasejarah raksasa mengancam peradaban! ... </item>
+    </string-array>
+    <string-array name = "release_date_data">
+        <item> 3 Oktober 2018 </item>
+        <item> 7 Desember 2018 </item>
+        <item> 25 April 2018 </item>
+        <item> 15 Desember 2018 </item>
+        <item> 24 Oktober 2018 </item>
+        <item> 20 November 2018 </item>
+        <item> 28 September 2018 </item>
+        <item> 27 November 2018 </item>
+        <item> 3 Januari 2019 </item>
+        <item> 16 Januari 2019 </item>
+    </string-array>
+    <string-array name = "genre_data">
+        <item> Drama, Romansa, Musik </item>
+        <item> Aksi, Petualangan, Fantasi </item>
+        <item> Petualangan, Aksi, Fantasi </item>
+        <item> Aksi, Petualangan, Fiksi Ilmiah </item>
+        <item> Drama, Musik </item>
+        <item> Petualangan, Aksi, Thriller </item>
+        <item> Fiksi Ilmiah, Aksi </item>
+        <item> Petualangan, Fantasi </item>
+        <item> Animasi, Keluarga, Petualangan </item>
+        <item> Thriller, Drama, Fiksi Ilmiah </item>
+    </string-array>
+</resources>

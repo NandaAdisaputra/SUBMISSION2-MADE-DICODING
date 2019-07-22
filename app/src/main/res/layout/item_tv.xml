@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    android:id="@+id/it_movie"
+    android:background="@drawable/background2"
+    tools:ignore="RedundantNamespace">
+
+    <TextView
+        android:id="@+id/tv_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/activity_start_margin"
+        android:layout_marginTop="4dp"
+        android:layout_toEndOf="@id/iv_img"
+        android:text="movie_title"
+        android:textAlignment="center"
+        android:textColor="#ffff"
+        android:textSize="24sp"
+        android:textStyle="bold|normal"
+        tools:ignore="HardcodedText,RtlCompat"
+
+        />
+
+    <ImageView
+        android:id="@+id/iv_img"
+        android:layout_width="100dp"
+        android:layout_height="150dp"
+        android:layout_margin="10dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/dragon"
+        tools:ignore="ContentDescription"
+
+        />
+
+    <TextView
+        android:id="@+id/tv_desc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_name"
+        android:layout_marginTop="12dp"
+        android:layout_toRightOf="@id/iv_img"
+        android:ellipsize="end"
+        android:maxLines="4"
+        android:text="@string/description"
+        android:textColor="#FFDD00"
+        tools:ignore="RtlCompat,RtlHardcoded"
+
+        />
+
+</RelativeLayout>

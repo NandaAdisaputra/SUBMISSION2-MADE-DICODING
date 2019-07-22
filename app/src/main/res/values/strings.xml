@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">SUBMISSION2MADE</string>
+    <string name="genre">Genre</string>
+    <string name="Movie">Movie</string>
+    <string name="TvShows">Tv Shows</string>
+    <string name="by_nanda_adisaputra">By nanda adisaputra</string>
+    <string name="description">Description</string>
+    <string name="genre_movie">Genre Movie</string>
+    <string name="language_settings">Language Settings</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="release_date">Release Date</string>
+    <array name="image_data">
+        <item>@drawable/a_star</item>
+        <item>@drawable/aquaman</item>
+        <item>@drawable/avengerinfinity</item>
+        <item>@drawable/bumblebee</item>
+        <item>@drawable/bohemian</item>
+        <item>@drawable/robinhood</item>
+        <item>@drawable/venom</item>
+        <item>@drawable/mortalengine</item>
+        <item>@drawable/dragon</item>
+        <item>@drawable/glass</item>
+    </array>
+    <array name="data_img">
+        <item>@drawable/afterlife</item>
+        <item>@drawable/americangods</item>
+        <item>@drawable/gameofthrones</item>
+        <item>@drawable/lovedeathrobots</item>
+        <item>@drawable/recess</item>
+        <item>@drawable/thegoodplace</item>
+        <item>@drawable/naruto</item>
+        <item>@drawable/boruto</item>
+        <item>@drawable/doraemon</item>
+        <item>@drawable/ultraman</item>
+    </array>
+    <string-array name="title_data">
+        <item>A star</item>
+        <item>Aquaman</item>
+        <item>Avengerinfinity</item>
+        <item>Bumblebee</item>
+        <item>Bohemian</item>
+        <item>Robinhood</item>
+        <item>Venom</item>
+        <item>Mortalengine</item>
+        <item>Dragon</item>
+        <item>Glass</item>
+    </string-array>
+    <string-array name="name_data">
+        <item>After Life</item>
+        <item>American Gods</item>
+        <item>Game of Thrones</item>
+        <item>Love deathrobots</item>
+        <item>Recess</item>
+        <item>The good Place</item>
+        <item>Naruto </item>
+        <item>Boruto</item>
+        <item>Doraemon</item>
+        <item>Ultraman</item>
+    </string-array>
+    <string-array name="data_description">
+        <item> A Star Is Born.Seasoned musician Jackson Maine discovers — and falls in love with — struggling artist Ally. </item>
+        <item>Aquaman.Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled
+            by the power-hungry King Orm.</item>
+        <item>Avengers: Infinity War.As the Avengers and their allies have continued to protect the world from threats too large
+            for any one hero to handle</item>
+        <item>Bumblebee.On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town.</item>
+        <item>Bohemian. Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take
+            the music world by storm </item>
+        <item>Robin Hood.A war-hardened Crusader and his Moorish commander mount an audacious revolt against the corrupt English
+            crown.</item>
+        <item>Venom.Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the
+            host of Venom</item>
+        <item>Mortal Engines. Many thousands of years in the future, Earth’s cities roam the globe on huge wheels..</item>
+        <item>As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away. </item>
+        <item>Glass.In a series of escalating encounters, former security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb</item>
+    </string-array>
+    <string-array name="data_desc">
+        <item> After Life follows Tony, who had a perfect life. But after his wife Lisa suddenly dies, Tony changes.</item>
+        <item> Based on Neil 2001 novel of the same name, ex-convict Shadow Moon becomes..</item>
+        <item>Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads…</item>
+        <item>A collection of animated short stories that span various genres including science fiction, fantasy,…</item>
+        <item>Comic tales of a group of good friends, 4 boys and 2 girls, during breaks in primary school,…</item>
+        <item>Eleanor Shellstrop is an ordinary woman who, through an extraordinary…</item>
+        <item>In another world, ninja are the ultimate power, and in the Village Hidden in the Leaves live…</item>
+        <item>The Hidden Leaf Village has entered an era of peace and modernity. Tall buildings line the streets…</item>
+        <item>Nobita Nobi is so hapless that his 22nd century descendants are still impoverished as a result of his 20th century bumbling.</item>
+        <item>In the near future, sinister aliens and giant prehistoric monsters threaten civilization!…</item>
+    </string-array>
+    <string-array name="release_date_data">
+        <item>October 3, 2018</item>
+        <item>December 7, 2018</item>
+        <item>April 25, 2018</item>
+        <item>December 15, 2018</item>
+        <item>October 24, 2018</item>
+        <item>November 20, 2018</item>
+        <item>September 28, 2018</item>
+        <item>November 27, 2018</item>
+        <item>January 3, 2019</item>
+        <item>January 16, 2019</item>
+    </string-array>
+    <string-array name="genre_data">
+        <item>Drama,Romance,Music</item>
+        <item>Action,Adventure,Fantasy</item>
+        <item>Adventure,Action,Fantasy</item>
+        <item>Action,Adventure,Science Fiction</item>
+        <item>Drama,Music</item>
+        <item>Adventure,Action,Thriller</item>
+        <item>Science Fiction,Action</item>
+        <item>Adventure,Fantasy</item>
+        <item>Animation,Family,Adventure</item>
+        <item>Thriller,Drama,Science Fiction</item>
+    </string-array>
+</resources>
